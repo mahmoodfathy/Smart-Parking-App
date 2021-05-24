@@ -1,8 +1,8 @@
 # Smart Parking App
 
-![Smart Parking](client\public\Smart-Parking.gif)
-![Login](client\public\login.jpg)
-![signup](client\public\register.jpg)
+![Smart Parking](client/public/Smart-Parking.gif)
+![Login](client/public/login.jpg)
+![signup](client/public/register.jpg)
 
 ### Technologies Used
 
